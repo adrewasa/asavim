@@ -101,7 +101,7 @@ set selectmode=mouse,key
 
 
 "快捷键设置{{{
-
+nmap w :w<CR>
 "快捷键设置}}}
 
 
